@@ -1,52 +1,51 @@
-<h1 data-importer="text" align="left">Bem vindo!</h1>
-
-###
-
-<div data-importer="image" align="center">
-  <img data-importer="image" height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"  />
+<div align="center">
+  <!-- Você pode trocar este link por um GIF do Chrollo, Hisoka ou Killua de sua preferência -->
+  <img src="https://media.giphy.com/media/V8BwN7V7hQ8E/giphy.gif" alt="Hunter x Hunter Banner" height="200" />
+  
+  <h1>Bem-vindo ao meu Perfil! 🕷️</h1>
 </div>
 
 ###
 
-<div data-importer="profile-views" align="center">
-  <img data-importer="profile-views" src="https://visitor-badge.laobi.icu/badge?page_id=gean-bacinello.gean-bacinello&"  />
+<div align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=gabriel-bacinello.gabriel-bacinello&" alt="Visitantes" />
 </div>
 
 ###
 
-<h3 data-importer="text" align="left">👩‍💻  sobre min</h3>
+<h3 align="left">📜 Licença Hunter (Sobre Mim)</h3>
+
+> *"Não temo a morte. Temo apenas que minha fúria desapareça com o tempo."*
+
+- 🔭 Meu "Nen" é especializado em **Matemática e Programação**
+- 📚 Classe: **Técnico em Desenvolvimento de Sistemas**
+- ⚡ Foco: Aprimorar minhas habilidades até me tornar um Hunter de Elite
+- 🎯 Atualmente caçando novos conhecimentos em arquitetura e otimização.
 
 ###
 
-<p data-importer="text" align="left">- 🔭 Eu gosto de matematica e programação<br>- 📚 Tecnico em desenvolvimento de Sistemas<br>- ⚡ Foco</p>
+<h3 align="left">🔮 Habilidades Nen (Ferramentas e Tecnologias)</h3>
 
-###
-
-<h3 data-importer="text" align="left">🛠 Ferramentas e Habilidades</h3>
-
-###
-
-<div data-importer="techs" align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="linux logo"  />
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="linux logo" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="c logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="c logo" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo" />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=vscode" height="40" alt="vscode logo"  />
+  <img src="https://skillicons.dev/icons?i=vscode" height="40" alt="vscode logo" />
 </div>
 
 ###
 
-<h3 data-importer="text" align="left">🔥   Status:</h3>
+<h3 align="left">📊 Atributos de Batalha (Status)</h3>
 
-###
-
-<div data-importer="stats" align="center">
-  <img src="https://raw.githubusercontent.com/gean-bacinello/gean-bacinello/stats-output/stats.svg?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-  <img src="https://raw.githubusercontent.com/gean-bacinello/gean-bacinello/languages-output/languages.svg?locale=pt-br&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
+<div align="center">
+  <!-- Alterado para um tema mais sombrio e integrado diretamente com seu username -->
+  <img src="https://github-readme-stats.vercel.app/api?username=gabriel-bacinello&show_icons=true&theme=blood&hide_border=true&bg_color=0D1117&icon_color=ff0000&text_color=ffffff" height="150" alt="stats graph" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabriel-bacinello&layout=compact&theme=blood&hide_border=true&bg_color=0D1117&text_color=ffffff" height="150" alt="languages graph" />
 </div>
 
 ###
